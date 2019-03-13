@@ -1,0 +1,2 @@
+pip install statuspage
+statuspage create --token=<yourtoken>
